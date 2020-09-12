@@ -1,1 +1,2 @@
-# Chatbot-with-seq2seq-model
+# Chatbot with seq2seq model
+ easy seq2seq
